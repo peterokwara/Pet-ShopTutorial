@@ -28,4 +28,4 @@ https://metamask.io/
 
 ## Acknowledgments
 
-[Truffle framework](http://truffleframework.com/tutorials/pet-shop)
+[Truffle](http://truffleframework.com/tutorials/pet-shop) framework tutorial
